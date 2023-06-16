@@ -17,9 +17,6 @@
   - `email` as string, required.
   - `password` as string, required.
 
-- Response Body
-  - [Sample 1](https://github.com/nabawiAwi/FitAsistAi-ApiRequirements/blob/master/response_samples/register.json)
-
 
 ## Login
 
@@ -35,9 +32,7 @@
   
   - `email` as string, required.
   - 'password' as string, required.
-  
-- Response Body
-  - [Sample 1](https://github.com/nabawiAwi/FitAsistAi-ApiRequirements/blob/master/response_samples/login.json)
+
 
 ## Information
 
@@ -60,8 +55,6 @@
 
   - Authorization: `Bearer <idToken>`, required
 
-- Response Body
-  - [Sample 1](https://github.com/nabawiAwi/FitAsistAi-ApiRequirements/blob/master/response_samples/information.json)
 
 ## Profile 
 
@@ -76,9 +69,6 @@
 - Headers
 
   - Authorization: `Bearer <idToken>`, required
-
-- Response Body
-  - [Sample 1](https://github.com/nabawiAwi/FitAsistAi-ApiRequirements/blob/master/response_samples/profile.json)
 
 
 ## Result  
@@ -102,9 +92,6 @@
 
   - Authorization: `Bearer <idToken>`, required
 
-- Response Body
-  - [Sample 1](https://github.com/nabawiAwi/FitAsistAi-ApiRequirements/blob/master/response_samples/result.json)
-
 
 ## History
 
@@ -119,7 +106,3 @@
 - Headers
 
   - Authorization: `Bearer <idToken>`, required
-
-- Response Body
-  - [Sample 1](https://github.com/nabawiAwi/FitAsistAi-ApiRequirements/blob/master/response_samples/history.json)
-
