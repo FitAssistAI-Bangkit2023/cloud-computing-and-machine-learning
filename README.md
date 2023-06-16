@@ -74,7 +74,7 @@ Our project aims to address the challenges of poor form and inefficient workouts
   </table>
 </div>
 
-### Demo Our App
+### Our Demo App
 <p align="center">
   <a href="https://youtu.be/_PI4tTTRTWc">
     <img src="./img/fitassistaidemo.png" alt="YouTube Video" />
