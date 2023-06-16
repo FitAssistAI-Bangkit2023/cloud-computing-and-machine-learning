@@ -22,7 +22,7 @@ Our project aims to address the challenges of poor form and inefficient workouts
       <td>Andromedha Anjar Wasari</td>
       <td>Machine Learning</td>
       <td>
-        <a href="[https://github.com/ariopurba](https://github.com/andromedhaaw)"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+        <a href="https://github.com/andromedhaaw"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/andromedha/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       </td>
     </tr>
